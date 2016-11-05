@@ -14,10 +14,16 @@ p {
 }
 
 @media (max-width: 800px) {
-    body {
-        }
-    img {
-      width: 70%;
+    #travel {
+      width: 100%;
     }
-
+    #road {
+      width: 100%
+    }
+    #bridge {
+      width: 100%
+    }
+    #city {
+      width: 100%
+    }
 }
