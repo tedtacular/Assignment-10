@@ -1,0 +1,23 @@
+body {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 200%;
+}
+
+article {
+  padding: 20px;
+}
+#intro {
+  margin: 20px;
+}
+p {
+  padding: 10px;
+}
+
+@media (max-width: 800px) {
+    body {
+        }
+    img {
+      width: 70%;
+    }
+
+}
